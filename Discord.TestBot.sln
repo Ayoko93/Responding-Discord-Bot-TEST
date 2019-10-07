@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord.TestBot", "Discord.TestBot\Discord.TestBot.csproj", "{031D5E23-A146-476B-9B7A-C1209C018AA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dicord.Tasks", "Dicord.Tasks\Dicord.Tasks.csproj", "{D0816C40-361D-454D-A58D-757FB3C41E74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{031D5E23-A146-476B-9B7A-C1209C018AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031D5E23-A146-476B-9B7A-C1209C018AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031D5E23-A146-476B-9B7A-C1209C018AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031D5E23-A146-476B-9B7A-C1209C018AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0816C40-361D-454D-A58D-757FB3C41E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0816C40-361D-454D-A58D-757FB3C41E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0816C40-361D-454D-A58D-757FB3C41E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0816C40-361D-454D-A58D-757FB3C41E74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {540E4FEB-93CF-4B7D-B2BF-A5DDC52CA1F8}
+	EndGlobalSection
+EndGlobal
